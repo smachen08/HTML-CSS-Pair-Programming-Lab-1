@@ -1,0 +1,19 @@
+/* HTML-CSS-Pair-Programming-Lab-1 */
+/* Complete the challenge by writing CSS below */
+
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.footer{ 
+    width: 100%;
+    Height: auto;
+    margin: auto;
+    background:#272727;
+    padding: 20px 0px;
+    font-family: arial;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+}
